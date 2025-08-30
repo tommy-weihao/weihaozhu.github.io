@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://weihaozhu.github.io/sitemap.xml
