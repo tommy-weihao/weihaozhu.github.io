@@ -4,6 +4,15 @@
 
 // Typography
 
+body, p, div, section, article {
+  font-family: 'Carlito', sans-serif !important;
+}
+
+body {
+  font-size: 18px;
+}
+
+
 p,
 h1,
 h2,
@@ -198,7 +207,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
 
     p {
       display: inline-block;
@@ -1360,7 +1369,7 @@ figure.cover {
   }
 
   figcaption.abandoned {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #ee5f5b;
@@ -1368,28 +1377,28 @@ figure.cover {
 
   figcaption.finished,
   figcaption.watched {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #62c462;
   }
 
   figcaption.interested {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #7691db;
   }
 
   figcaption.paused {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #bdac7e;
   }
 
   figcaption.queued {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #9e76b5;
@@ -1397,7 +1406,7 @@ figure.cover {
 
   figcaption.reading,
   figcaption.watching {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #f89406;
@@ -1405,14 +1414,14 @@ figure.cover {
 
   figcaption.reread,
   figcaption.rewatch {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #a6517d;
   }
 
   figcaption.uncategorized {
-    font-family: monospace;
+    font-family: 'Carlito', sans-serif !important;
     color: #23212d;
     text-transform: uppercase;
     background-color: #b0abb3;
