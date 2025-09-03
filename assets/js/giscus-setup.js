@@ -9,7 +9,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "tommy-weihao/weihaozhu.github.io",
+    "data-repo": "tommy-weihao/tommy-weihao.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
